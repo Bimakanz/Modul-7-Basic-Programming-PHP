@@ -2,7 +2,7 @@
 echo "OPERATOR PAJAK <br>";
 echo "<hr>";
 
-$gaji1 =12000000;
+$gaji1 = 2000000;
 $status = "Tetap";
 
 
